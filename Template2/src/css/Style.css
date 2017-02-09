@@ -1,5 +1,5 @@
      .top {
-    background-image: url("bg.jpg");
+    background-image: url("../images/bg.jpg");
     color: #08233F;
     }
     .bodystyle{
@@ -17,6 +17,6 @@
     background-color: #336eff;
 }
  .contact {
-    background-image: url("bg.jpg");
+    background-image: url("../images/bg.jpg");
     color: #de5810;
     }
