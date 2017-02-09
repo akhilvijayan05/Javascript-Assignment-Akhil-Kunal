@@ -1,0 +1,22 @@
+     .top {
+    background-image: url("bg.jpg");
+    color: #08233F;
+    }
+    .bodystyle{
+    border-style: ridge;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    background-color: #F2F3E3;
+    }
+    .fontcolor{
+    color:#08233F;
+}
+.home:hover {
+    background-color: #336eff;
+}
+ .contact {
+    background-image: url("bg.jpg");
+    color: #de5810;
+    }
